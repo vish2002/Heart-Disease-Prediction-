@@ -5,4 +5,3 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
-streamlit_server_proxy
